@@ -12,3 +12,9 @@ for loop in 'python':
 x=['bob','rana','champ','charly']
 for loop in x:
     print('current name: ',x)
+
+#loop3
+for x in range(1,6):
+    print(x)
+#while loop
+
